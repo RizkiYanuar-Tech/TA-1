@@ -1,0 +1,8 @@
+{
+    "optimizer": "adam",
+    "lr": 0.001,
+    "val_precision": 0.5032042264938354,
+    "val_recall": 1.0,
+    "val_ndcg": 0.9632179141044617,
+    "val_auc": 0.838839054107666
+}
